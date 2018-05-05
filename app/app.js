@@ -1,5 +1,5 @@
 color = Math.floor(Math.random() * 9)
-birb = Math.floor(Math.random() * 9)
+birb = Math.floor(Math.random() * 13)
 
 
 // Random orange block
@@ -55,5 +55,14 @@ if (birb === 0) {
     $('.birbMeme').append('<img src="media/img009.jpg" alt="your birb good noodle">')
 } else if (birb === 9) {
     $('.birbMeme').append('<img src="media/img010.jpg" alt="your birb good noodle">')
+
+} else if (birb === 10) {
+    $('.birbMeme').append('<img src="media/img011.jpg" alt="your birb good noodle">')
+
+} else if (birb === 11) {
+    $('.birbMeme').append('<img src="media/img012.jpg" alt="your birb good noodle">')
+
+} else if (birb === 12) {
+    $('.birbMeme').append('<img src="media/img013.png" alt="your birb good noodle">')
 
 }
