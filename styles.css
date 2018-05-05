@@ -2,8 +2,8 @@ body{
     padding: 0;
     margin: 0;
     font-family: 'Skranji', cursive;
-    background-image: url("media/bg001.jpg");
-    background-size: cover;
+    background-image: url("media/Background.png");
+    background-size:cover;
     background-repeat:none;
     display: flex;
     flex-wrap: wrap;
