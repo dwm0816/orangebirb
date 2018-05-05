@@ -2,6 +2,7 @@ color = Math.floor(Math.random() * 9)
 birb = Math.floor(Math.random() * 13)
 
 
+
 // Random orange block
 if (color === 0){
     $('.colorBox').css("background-color", "rgb(255,176,86)")
@@ -66,3 +67,4 @@ if (birb === 0) {
     $('.birbMeme').append('<img src="media/img013.png" alt="your birb good noodle">')
 
 }
+
