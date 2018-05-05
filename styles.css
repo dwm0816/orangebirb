@@ -113,6 +113,13 @@ body{
 
 
 }
+#explanation{
+    width: 100vw;
+    padding: 50px;
+    background-color: white;
+    border-radius: 7px;
+    margin-top: 25px;
+}
 
 
 /* Footer content */
