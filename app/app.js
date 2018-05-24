@@ -1,5 +1,5 @@
 color = Math.floor(Math.random() * 9)
-birb = Math.floor(Math.random() * 13)
+birb = Math.floor(Math.random() * 14)
 
 
 
@@ -65,6 +65,7 @@ if (birb === 0) {
 
 } else if (birb === 12) {
     $('.birbMeme').append('<img src="media/img013.png" alt="your birb good noodle">')
-
+} else if (birb === 13) {
+    $('.birbmeme').append('<img src="media/img014.jpg" alt="your birb good noodle">')
 }
 
